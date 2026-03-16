@@ -1,4 +1,5 @@
 # 🩻 VAE PneumoniaMNIST - Triagem Inteligente
+## Aluno: Marcelo Roberto Maso Junior
 
 Este projeto faz parte do ecossistema acadêmico e consiste em um sistema de triagem para auxílio diagnóstico de pneumonia utilizando **Variational Autoencoders (VAE)**. O sistema analisa radiografias de tórax e utiliza o erro de reconstrução para identificar anomalias, é válido informar que o projeto não está em nivel de produção e deve ser usado única e exclusivamente para fins de estudo.
 
