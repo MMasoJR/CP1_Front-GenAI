@@ -1,0 +1,10 @@
+# Código de download dos requirements para execução do projeto
+# pip install -r requirements.txt
+
+streamlit
+tensorflow
+keras
+numpy
+pandas
+Pillow
+plotly
